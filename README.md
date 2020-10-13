@@ -20,4 +20,3 @@ My name is David!
 ### 📫  Contact me! 📫   
 [![email](https://img.shields.io/badge/email-sopkin.sf@gmail.com-purple?style=flat-square)](mailto:sopkin.sf@gmail.com) 
 
-[![linkedin](https://img.shields.io/badge/email-sopkin.sf@gmail.com-blue?style=flat-square)](mailto:sopkin.sf@gmail.com) 
