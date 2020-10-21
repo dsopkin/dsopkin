@@ -3,7 +3,7 @@
 My name is David! 
 
 ### I dabble in 
-![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  ![bash](https://img.shields.io/badge/-Bash-green?style=flat-square&logo=gnu-bash&logoColor=white)  ![html](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white) ![Ansidble](https://img.shields.io/badge/-ansible-blue?stylflat-square&logo=ansible&logoColor=white)
+![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  ![bash](https://img.shields.io/badge/-Bash-green?style=flat-square&logo=gnu-bash&logoColor=white)  ![html](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white) ![Ansible](https://img.shields.io/badge/-ansible-blue?stylflat-square&logo=ansible&logoColor=white)
 
 
 ### I use
