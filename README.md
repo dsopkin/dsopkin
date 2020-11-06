@@ -10,4 +10,4 @@ My name is David!
 ![vscode](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white) 
 
 ### 📫  Contact me! 📫   
-[![email](https://img.shields.io/badge/email-sopkin.sf@gmail.com-purple?style=flat-square)](mailto:sopkin.sf@gmail.com)
+[![email](https://img.shields.io/badge/email-sopkin.sf%40gmail.com-brightgreen)](mailto:sopkin.sf@gmail.com)
