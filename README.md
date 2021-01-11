@@ -9,5 +9,8 @@ My name is David!
 ### I use
 ![vscode](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white) 
 
-### 📫  Contact me! 📫   
+### Contact me! 📫   
 [![email](https://img.shields.io/badge/email-sopkin.sf%40gmail.com-brightgreen)](mailto:sopkin.sf@gmail.com)
+
+### Buy me a coffee! ☕
+[![coffee](https://img.shields.io/badge/buymeacoffee-dsop-black)](https://www.buymeacoffee.com/dsop)
